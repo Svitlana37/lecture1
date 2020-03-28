@@ -1,8 +1,24 @@
-h1 {
-    color: blue;
-    text-align: center;
-}
 
-p {
-    color: blue;
-}
+    table {
+        border: 2px solid red;
+        border-collapse: collapse;
+        width: 50%;
+        text-align: center;
+        background-color: teal;
+        width: 500px;
+        height: 400px;
+        margin: 50px; 
+        padding: 40px;
+        font-family: Arial, sans-serif;
+        font-size: 28px;
+        font-weight: bold;
+
+    }
+    th, td {
+        border: 1px solid green;
+        padding: 14px;
+        border-collapse: collapse;
+    }
+    th {
+        background-color: lightgrey;
+    }
